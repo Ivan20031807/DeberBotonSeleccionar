@@ -52,7 +52,7 @@ namespace AccesoDatos
                     }
                     else
                     {
-                        MessageBox.Show("NO SE ELIMINO NINGUN DATO", "CANCELACION", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("NO SE HA ELIMINADO NINGUN DATO", "CANCELACION", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
 
